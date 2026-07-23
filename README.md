@@ -16,6 +16,8 @@ Here is a heatmap I created to show the correlation between GDP per capita estim
 
 <img width="750" height="567" alt="image" src="https://github.com/user-attachments/assets/5ad873ee-f635-45e1-ab81-e85f89284875" />
 
+- Heatmap suggests that there is a strong correlation between UN estimates and World Bank estimates. However, IMF estimates and World Bank estimates have the weakest correlation.
+
 # Skills demonstrated
 - Python language
 
