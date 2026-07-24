@@ -3,6 +3,12 @@
 # Introduction 
 This python project was created to analyse data and gain key insights on GDP per Capita using a real dataset. It contains estimated figures from global organisations such as the World Bank and can be used by governments to determine economic growth.
 
+# Tools used
+- Google Colab
+- Pandas
+- Seaborn
+- Numpy
+  
 # Python code
 I used Google Colab and different python libraries such as Pandas to create python codes.
 https://colab.research.google.com/drive/1HNHm4gVzJ_L8TEnOOzYYOzVFH4Qi2CBU?usp=sharing 
