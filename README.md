@@ -34,5 +34,9 @@ Here is a heatmap I created to show the correlation between GDP per capita estim
 - Data cleaning
 
 - Data manipulation
-
+  
 - Data visualisation
+
+  # Conclusion
+  I was able to learn how to use Python codes and different libraries to explore and visualise data. I was able to gain insights on different organisations’ estimates of global GDP per capita, which can help countries determine their economic performance.
+  
