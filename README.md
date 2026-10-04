@@ -1,9 +1,10 @@
 ## World GDP per capita 
 
 # Introduction 
-This python project was created to analyse data and gain key insights on GDP per Capita using a real dataset. It contains estimated figures from global organisations such as the World Bank and can be used by governments to determine economic growth.
+This Python project was created to analyse data and gain key insights on GDP per Capita using a real dataset. It contains estimated figures from global organisations such as the World Bank and can be used by governments to determine economic growth.
 
 # Tools used
+- Python language
 - Google Colab
 - Pandas
 - Seaborn
